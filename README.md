@@ -1,7 +1,22 @@
-### Hi there 👋
+## Hi, I'm Rohit! ✌️
 
-I am in ![](https://www.shareicon.net/data/256x256/2015/12/05/682880_line_512x512.png)
 
+- What's next for me ⏭️: 
+  * I'm an incoming ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) at ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr)! I'm super excited for my new journey into the realm of ![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr).
+  * Alongside my new career, I'll be ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) the ![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) of ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr), going for my ![](https://bit.ly/3nIfCrr) of ![](https://bit.ly/3nIfCrr) in ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr).
+
+- What I'm working on 🖥️:
+  * My revamped personal website
+  * A sort of 'Stock Exchange' for Panther Algo Trading that tracks all trades made and creates a leaderboard of trading strategies - *Python + Other stuff :)*
+  * Other random side projects just for ✨ _fun_ ✨ and ✨ _learning_ ✨
+
+- Books I'm reading 📫:
+  * *Hit Refresh* by Satya Nadella (CEO, Microsoft)
+  * *The Network Imperative* by  Barry Libert, Megan Beck, and Yoram Wind
+  * *Swipe to Unlock* by Parth Detroja, Neel Mehta, and Aditya Agashe
+  * ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) the ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) by ![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr)
+
+### More information about me/blog posts/etc. can be found on my [website](https://rohitganguly.com)!
 
 <!--
 **rohit-ganguly/rohit-ganguly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
