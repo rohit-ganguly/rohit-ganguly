@@ -1,16 +1,16 @@
 ## Hi, I'm Rohit! ✌️
 
 
-- What's next for me ⏭️: 
-  * I'm an incoming ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) at ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr)! I'm super excited for my new journey into the realm of ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr).
+- ⏭️ What's next for me: 
+  * I'm an incoming ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) at ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr)! Super excited to be a ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr).
   * Alongside my new career, I'll be ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) the ![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) of ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr), going for my ![](https://bit.ly/3nIfCrr) of ![](https://bit.ly/3nIfCrr) in ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr).
 
-- What I'm working on 🖥️:
+- 🖥️ What I'm working on:
   * My revamped personal website
   * A sort of 'Stock Exchange' for Panther Algo Trading that tracks all trades made and creates a leaderboard of trading strategies - *Python + Other stuff :)*
   * Other random side projects just for ✨ _fun_ ✨ and ✨ _learning_ ✨
 
-- Books I'm reading 📫:
+- 📫 Books I'm reading:
   * *Hit Refresh* by Satya Nadella (CEO, Microsoft)
   * *The Network Imperative* by  Barry Libert, Megan Beck, and Yoram Wind
   * *Swipe to Unlock* by Parth Detroja, Neel Mehta, and Aditya Agashe
