@@ -2,8 +2,8 @@
 
 
 - ⏭️ What's next for me: 
-  * I'm an incoming ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) at ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr)! Super excited to be in ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr)!
-  * Alongside my new career, I'll be ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) the ![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) of ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr), going for my ![](https://bit.ly/3nIfCrr) of ![](https://bit.ly/3nIfCrr) in ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr).
+  * I'm an incoming ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) at ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42)! Super excited to be in ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42)!
+  * Alongside my new career, I'll be ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) the ![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) of ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42), going for my ![](https://bit.ly/2KJCk42) of ![](https://bit.ly/2KJCk42) in ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42).
 
 - 🖥️ What I'm working on:
   * My revamped personal website
@@ -15,10 +15,10 @@
   * *Hit Refresh* by Satya Nadella (CEO, Microsoft)
   * *The Network Imperative* by  Barry Libert, Megan Beck, and Yoram Wind
   * *Swipe to Unlock* by Parth Detroja, Neel Mehta, and Aditya Agashe
-  * ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) the ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) by ![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr) ![](https://bit.ly/3nIfCrr)![](https://bit.ly/3nIfCrr)
+  * ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) the ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) by ![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42)
 
 ### More information about me/blog posts/etc. can be found on my [website](https://rohitganguly.com)!
-
+Redacted elements will be shown soon :)
 <!--
 **rohit-ganguly/rohit-ganguly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
