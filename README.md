@@ -8,6 +8,7 @@
 - 🖥️ What I'm working on:
   * My revamped personal website
   * A sort of 'Stock Exchange' for Panther Algo Trading that tracks all trades made and creates a leaderboard of trading strategies - *Python + Other stuff :)*
+  * Creating a method for @pittcsc and Pitt alumni to better be in touch with current students for interview prep + mentorship
   * Other random side projects just for ✨ _fun_ ✨ and ✨ _learning_ ✨
 
 - 📫 Books I'm reading:
