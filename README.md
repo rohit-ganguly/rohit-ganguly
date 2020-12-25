@@ -2,8 +2,9 @@
 
 
 - ⏭️ What's next for me: 
-  * I'm an incoming ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) at ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42)! Super excited to be in ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42)!
-  * Alongside my new career, I'll be ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) the ![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) of ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42), going for my ![](https://bit.ly/2KJCk42) of ![](https://bit.ly/2KJCk42) in ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42).
+  * I'm an incoming Engineering Product Manager at C.H. Robinson, a 3PL/Supply Chain company located right outside of Minneapolis, MN. I'll be starting with the June 2021  rotation of [HatCHRy](https://engineering.chrobinson.com/culture/hatchry-ch-robinson-it-onboarding/), their 3-month technical onboarding program.
+  
+    > It was a difficult decision to leave the realm of software engineering in the proprietary trading space, but I'm super excited to make the transition to the product side of software engineering! I've gotta start prepping for Minnesota, though 🥶
 
 - 🖥️ What I'm working on:
   * My revamped personal website
@@ -15,10 +16,9 @@
   * *Hit Refresh* by Satya Nadella (CEO, Microsoft)
   * *The Network Imperative* by  Barry Libert, Megan Beck, and Yoram Wind
   * *Swipe to Unlock* by Parth Detroja, Neel Mehta, and Aditya Agashe
-  * ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) the ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) by ![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42) ![](https://bit.ly/2KJCk42)![](https://bit.ly/2KJCk42)
+  * *Cracking the Product Management Interview* by Gayle Laakman McDowell
 
 ### More information about me/blog posts/etc. can be found on my [website](https://rohitganguly.com)!
-Redacted elements will be shown soon :)
 <!--
 **rohit-ganguly/rohit-ganguly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
