@@ -4,7 +4,7 @@
 - ⏭️ What's next for me: 
   * I'm an incoming Engineering Product Manager at C.H. Robinson, a 3PL/Supply Chain company located right outside of Minneapolis, MN. I'll be starting with the June 2021  rotation of [HatCHRy](https://engineering.chrobinson.com/culture/hatchry-ch-robinson-it-onboarding/), their 3-month technical onboarding program.
   
-    > It was a difficult decision to leave the realm of software engineering in the proprietary trading space, but I'm super excited to make the transition to the product side of software engineering! I've gotta start prepping for Minnesota, though 🥶
+    * It was a difficult decision to leave the realm of software engineering in the proprietary trading space, but I'm super excited to make the transition to the product side of software engineering! I've gotta start prepping for Minnesota, though 🥶
 
 - 🖥️ What I'm working on:
   * My revamped personal website
