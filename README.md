@@ -8,7 +8,8 @@
 
 - 🖥️ What I'm working on:
   * My revamped personal website
-  * A sort of 'Stock Exchange' for Panther Algo Trading that tracks all trades made and creates a leaderboard of trading strategies - *Python + Other stuff :)*
+  * OpenSES (Securities Exchange Simulator), a Pitt CSC/Panther Algo Trading project to create a unified source of market data for our trading strategies.
+    * Check out the concept proposal [here](https://docs.google.com/document/d/1SMm2y2RSxEx6QeRjgA34Z7S4gdYm4nK4sOFEdrkiJaQ/edit?usp=sharing), the tech spec sheet is coming soon!
   * Creating a method for @pittcsc and Pitt alumni to better be in touch with current students for interview prep + mentorship
   * Other random side projects just for ✨ _fun_ ✨ and ✨ _learning_ ✨
 
