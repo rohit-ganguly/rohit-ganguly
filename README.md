@@ -7,7 +7,7 @@
     * It was a difficult decision to leave the realm of software engineering in the proprietary trading space, but I'm super excited to make the transition to the product side of software engineering! I've gotta start prepping for Minnesota, though 🥶
 
 - 🖥️ What I'm working on:
-  * My revamped personal website, more specifically my portfolio and a 'virtual shelf' Tailwind CSS component which I
+  * My revamped personal website, including my blog posts, portfolio, and other small Tailwind CSS components.
   * OpenSES (Securities Exchange Simulator), a project I started to create a unified place for our trading strategies to be executed, backtested, and diagnosed. 
     * Check out the concept proposal [here](https://docs.google.com/document/d/1SMm2y2RSxEx6QeRjgA34Z7S4gdYm4nK4sOFEdrkiJaQ/edit?usp=sharing), the tech spec sheet is coming soon!
   * Creating a method for @pittcsc and Pitt alumni to better be in touch with current students for interview prep + mentorship
@@ -17,9 +17,10 @@
   * ~~*Hit Refresh* by Satya Nadella (CEO, Microsoft)~~
   * ~~*The Network Imperative* by  Barry Libert, Megan Beck, and Yoram Wind~~
   * ~~Swipe to Unlock by Parth Detroja, Neel Mehta, and Aditya Agashe~~
-  * ~~*Cracking the Product Management Interview* by Gayle Laakman McDowell~~
+  * ~~*Cracking the Product Management Interview* by Gayle Laakman McDowell and Jackie Bavaro~~
   * Product Management's Sacred Seven by Parth Detroja, Neel Mehta, and Aditya Agashe
   * The Product Book: How to Become A Great Product Manager by Carlos González de Villaumbrosia and Josh Anon
+  * Cracking the PM Career by Gayle Laakman McDowell and and Jackie Bavaro
 
 ### More information about me/blog posts/etc. can be found on my [website](https://rohitganguly.com)!
 <!--
