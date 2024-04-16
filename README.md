@@ -1,7 +1,7 @@
 # Hi, I'm Rohit! ✌️
 
 ## I am:
-- a Product Manager at [Microsoft](https://microsoft.com], working on Azure Developer Experience
+- a Product Manager at [Microsoft](https://microsoft.com), working on Azure Developer Experience
 - an amateur musician (trying to release my first EP this year!)
 - a language learning enthusiast, both spoken and programming
 - a recovering caffeine addict :coffee:
